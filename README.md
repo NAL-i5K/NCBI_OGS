@@ -3,7 +3,7 @@
 * clean Official Gene Sets prior to NCBI submission  
 ## Requirement
 * python2.7
-* (EDirect)[https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Getting_Started]
+* [EDirect](https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Getting_Started)
 ## Background
 * We need to submit the Official Gene Sets generated at the i5k Workspace to NCBI/GenBank. To do so, we need to 1) clean up of the original gff, and 2) run NCBI's new table2asn program. 
 * [More information on NCBI's requirements for the gff3 file](https://www.ncbi.nlm.nih.gov/sites/genbank/genomes_gff/)
