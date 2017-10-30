@@ -6,12 +6,6 @@ from sys import argv
 import logging
 from gff3 import Gff3
 import sys
-from os.path import dirname
-if dirname(__file__) == '':
-    lib_path = '../lib'
-else:
-    lib_path = dirname(__file__) + '/../lib'
-sys.path.insert(1, lib_path)
 '''
 usage: python ogs_v5.py biosample_ID file.gff3
 example: python ogs_v5.py GCA_000696205.1 clec_OGS_v1_2_with_pep_CDS.gff3
