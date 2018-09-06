@@ -1,6 +1,7 @@
 ## NCBI_OGS
 * [gitlab issue](https://gitlab.com/i5k_Workspace/workspace_roadmap/issues/406)
 * clean Official Gene Sets prior to NCBI submission  
+* Main contributors are [Chao-I Tuan](https://github.com/chaoi111) (original development) and interns of i5k workspace.
 ## Requirement
 * python2.7
 * [EDirect](https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Getting_Started)
